@@ -9,4 +9,5 @@
 -SQL Langauge
 
 #Future Improvements
--More 
+-Add the total cost for each order
+=Shifts for each employee
